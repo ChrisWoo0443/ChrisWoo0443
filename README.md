@@ -104,17 +104,3 @@ added auth test and config
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chris-woo04)
 [<img src="https://img.shields.io/badge/Resume-EB1919?style=for-the-badge&logo=read-the-docs&logoColor=white" />](YOUR_RESUME_LINK)
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ChrisWoo0443&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChrisWoo0443&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChrisWoo0443&theme=radical" alt="Language Stats Alternative" />
-</p>
