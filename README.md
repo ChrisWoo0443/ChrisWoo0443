@@ -3,7 +3,7 @@
 ---
 
 ### About Me
-- **Education:** University of California, Riverside - Bachelors in Computer Science with Business Applications
+- **Education:** University of California, Riverside - Bachelors of Science in Computer Science with Business Applications
 - **Interests:** 
 
 ---
