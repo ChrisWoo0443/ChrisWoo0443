@@ -22,7 +22,7 @@
 
 ---
 
-### 🤝 Recent Contributions & PRs
+### Recent Contributions & PRs
 <details>
   <summary><b>Implement Vector Store Management tools [diri-cyrex]</b></summary>
   <br>
@@ -100,7 +100,7 @@ added auth test and config
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chris-woo04)
 [<img src="https://img.shields.io/badge/Resume-EB1919?style=for-the-badge&logo=read-the-docs&logoColor=white" />](https://github.com/ChrisWoo0443/ChrisWoo0443/blob/main/ResumeFeb2026.pdf)
 
