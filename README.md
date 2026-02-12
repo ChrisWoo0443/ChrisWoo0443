@@ -9,10 +9,10 @@
 ---
 
 ### Skills & Tools
-- **Languages:** 
-- **Frameworks/Libraries:** 
-- **Tools:** 
-
+- **Languages:** Python, C++, SQL, Java, JavaScript, and TypeScript.
+- **Frameworks/Libraries:** PyTorch, TensorFlow, Hugging Face Transformers, FastAPI, React, scikit-learn, and LlamaIndex.
+- **Tools:** Docker, Linux, PostgreSQL, Redis, Milvus, ChromaDB, Pandas, NumPy, OpenCV, and Tesseract.
+  
 ---
 
 ### Recent Projects
