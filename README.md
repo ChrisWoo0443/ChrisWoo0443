@@ -17,8 +17,8 @@
 
 ### Recent Projects
 - **[AIRA - AI Research Assistant](https://github.com/ChrisWoo0443/AIRA)** - AIRA is a full-stack app that turns your documents into a searchable, chat-based research assistant. Upload PDFs and text files, then ask questions in natural language. A FastAPI backend handles ingestion, embeddings, and RAG; a React frontend provides the UI; and Ollama runs the LLM locally.
-- **[MITR - Mutual Information Transformer Regularization](https://github.com/ChrisWoo0443/hiva-ijca-mitr)** - 
-- **[Content Manager](https://github.com/ChrisWoo0443/content_manager)** - 
+- **[MITR - Mutual Information Transformer Regularization](https://github.com/ChrisWoo0443/hiva-ijca-mitr)** - Developed MITR (Mutual Information Transformer Regularization) in the hopes to improve the training efficiency and generalization of encoder-only models like DistilBERT. By implementing the Contrastive Log-Ratio Upper Bound (CLUB) estimator, I created a custom loss function that penalizes redundant information between consecutive hidden layers. The project was evaluated on the SQuAD v2.0 dataset, testing the model's ability to handle complex reading comprehension and unanswerable questions. This approach forces the transformer to maintain more independent, diverse representations, reducing the "information bottleneck" during backpropagation. The results analyze how penalizing mutual information affects task accuracy and representation diversity in deep NLP architectures.
+- **[Content Manager](https://github.com/ChrisWoo0443/content_manager)** - Developed a full-stack project management platform for creators designed to streamline content planning, scripting, and collaboration. Built with a Next.js 14 frontend and a FastAPI backend, the app features a Markdown-based document editor with image support and a PostgreSQL-backed organization system similar to Notion or Google Drive. Currently in active development, the project utilizes uv for high-performance Python package management and focuses on scalable system architecture.
 
 ---
 
