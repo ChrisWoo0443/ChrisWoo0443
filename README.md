@@ -102,5 +102,5 @@ added auth test and config
 
 ### 🌐 Connect with Me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/chris-woo04)
-[<img src="https://img.shields.io/badge/Resume-EB1919?style=for-the-badge&logo=read-the-docs&logoColor=white" />](YOUR_RESUME_LINK)
+[<img src="https://img.shields.io/badge/Resume-EB1919?style=for-the-badge&logo=read-the-docs&logoColor=white" />](https://github.com/ChrisWoo0443/ChrisWoo0443/blob/main/ResumeFeb2026.pdf)
 
