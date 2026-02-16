@@ -4,7 +4,7 @@
 
 ### About Me
 - **Education:** University of California, Riverside - Bachelors of Science in Computer Science with Business Applications
-- **Interests:** 
+- **Interests:** AI/LM, Food/Cooking, Cars, Games, 
 
 ---
 
