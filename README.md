@@ -4,18 +4,19 @@
 
 ### About Me
 - **Education:** University of California, Riverside - Bachelors of Science in Computer Science with Business Applications
-- **Interests:** AI/ML, Food/Cooking, Cars, Games, 
+- **Interests:** AI/ML, Food/Cooking, Cars, Games
 
 ---
 
 ### Skills & Tools
 - **Languages:** Python, C++, SQL, Java, JavaScript, and TypeScript.
-- **Frameworks/Libraries:** PyTorch, TensorFlow, Hugging Face Transformers, FastAPI, React, scikit-learn, and LlamaIndex.
+- **Frameworks/Libraries:** PyTorch, TensorFlow, Hugging Face Transformers, FastAPI, React, Electron, scikit-learn, and LlamaIndex.
 - **Tools:** Docker, Linux, PostgreSQL, Redis, Milvus, ChromaDB, Pandas, NumPy, OpenCV, and Tesseract.
   
 ---
 
 ### Recent Projects
+- **[MINT - Meeting Intelligence Notes & Transcription](https://github.com/ChrisWoo0443/MINT)** - A macOS Electron desktop app that captures microphone and system audio during meetings, transcribes in real time via Deepgram, and generates structured notes (summaries, decisions, action items) using OpenAI GPT-4o or local Ollama models. Built with React 19, TypeScript, and electron-vite. All data stored locally as Markdown files.
 - **[AIRA - AI Research Assistant](https://github.com/ChrisWoo0443/AIRA)** - AIRA is a full-stack app that turns your documents into a searchable, chat-based research assistant. Upload PDFs and text files, then ask questions in natural language. A FastAPI backend handles ingestion, embeddings, and RAG; a React frontend provides the UI; and Ollama runs the LLM locally.
 - **[MITR - Mutual Information Transformer Regularization](https://github.com/ChrisWoo0443/hiva-ijca-mitr)** - Developed MITR (Mutual Information Transformer Regularization) in the hopes to improve the training efficiency and generalization of encoder-only models like DistilBERT. By implementing the Contrastive Log-Ratio Upper Bound (CLUB) estimator, I created a custom loss function that penalizes redundant information between consecutive hidden layers. The project was evaluated on the SQuAD v2.0 dataset, testing the model's ability to handle complex reading comprehension and unanswerable questions. This approach forces the transformer to maintain more independent, diverse representations, reducing the "information bottleneck" during backpropagation. The results analyze how penalizing mutual information affects task accuracy and representation diversity in deep NLP architectures.
 - **[Content Manager](https://github.com/ChrisWoo0443/content_manager)** - Developing a full-stack project management platform for creators designed to streamline content planning, scripting, and collaboration. Built with a Next.js 14 frontend and a FastAPI backend, the app features a Markdown-based document editor with image support and a PostgreSQL-backed organization system similar to Notion or Google Drive. Currently in active development, the project utilizes uv for high-performance Python package management and focuses on scalable system architecture.
@@ -52,7 +53,7 @@ cyrex-interface/src/App.tsx:
 </details>
 
 <details>
-  <summary><b> Weak default JWT Secerets [diri-cyrex]</b></summary>
+  <summary><b> Weak default JWT Secrets [diri-cyrex]</b></summary>
   <br>
   
   **Link:** [PR #43](https://github.com/Team-Deepiri/diri-cyrex/pull/43)
@@ -92,7 +93,7 @@ added auth test and config
   **Link:** [PR #25](https://github.com/Team-Deepiri/diri-cyrex/pull/25)
   
   **Description:**
-  Updated Cyrex testing UI for oraganization.
+  Updated Cyrex testing UI for organization.
   Added sidebar for easy navigation.
   Reorganized pages 
 
